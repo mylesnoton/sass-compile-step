@@ -1,0 +1,20 @@
+name: sass-compile
+version: 0.0.8
+description: Compile all sass files in a directory into CSS files
+keywords:
+  - css
+  - sass
+  - stylesheet
+properties:
+  source-dir:
+    type: string
+    required: true
+  output-dir:
+    type: string
+    required: true
+  output-style:
+    type: string
+    default: compressed
+  sourcemap:
+    type: string
+    default: none
