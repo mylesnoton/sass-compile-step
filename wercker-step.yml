@@ -1,5 +1,5 @@
 name: sass-compile
-version: 0.0.8
+version: 0.0.1
 description: Compile all sass files in a directory into CSS files
 keywords:
   - css
