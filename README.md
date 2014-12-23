@@ -2,6 +2,7 @@
 
 Compile all sass files in a directory into CSS files
 
+[![wercker status](https://app.wercker.com/status/c29abad8a57461a72814500ac6210641/m "wercker status")](https://app.wercker.com/project/bykey/c29abad8a57461a72814500ac6210641)
 
 ## Options
 
