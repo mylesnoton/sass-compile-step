@@ -1,8 +1,13 @@
-# sass-compile
+# wercker-sass-compile
 
-Compile all sass files in a directory into CSS files
+![Maintenance](https://img.shields.io/maintenance/no/2016)
+[![deprecated](https://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
 
 [![wercker status](https://app.wercker.com/status/c29abad8a57461a72814500ac6210641/m "wercker status")](https://app.wercker.com/project/bykey/c29abad8a57461a72814500ac6210641)
+
+Warning: Wercker has updated their platform to use docker instead, if the old platform still exists you should look at migrating rather than using this step.
+
+Compile all sass files in a directory into CSS files
 
 ## Options
 
